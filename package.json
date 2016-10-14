@@ -1,0 +1,11 @@
+{
+  "name": "imdb",
+  "description": "Search imdb from command line",
+  "author": {
+    "name": "abverma"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "latest"
+  }
+}

@@ -1,4 +1,4 @@
-Hello! This is readme file for my git repo.
+Simple IMDB search tool for command line
 
 Ciao!
 abverma
